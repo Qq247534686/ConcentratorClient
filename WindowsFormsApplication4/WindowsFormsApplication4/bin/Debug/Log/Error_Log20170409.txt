@@ -1,0 +1,220 @@
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 11:55:45,803 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 149
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 307
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 11:55:51,888 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 149
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 307
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:04:37,250 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 149
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 307
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:05:20,772 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 149
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 307
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:06:57,865 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 149
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 307
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:16:39,644 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 149
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 307
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:18:08,490 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 149
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 307
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:22:32,329 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 152
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 310
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:23:35,778 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 152
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 310
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:24:21,583 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 152
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 310
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:30:06,302 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 306
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:31:00,659 [10] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 306
+
+
+----------------------header--------------------------
+2017-04-09 12:33:21,041 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 305
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:34:21,304 [1] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 306
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-09 12:34:38,679 [9] ERROR errorMsg - System.TypeInitializationException: “集中器控制客户端.HandleClass.HandelControls”的类型初始值设定项引发异常。 ---> System.BadImageFormatException: 未能加载文件或程序集“System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139”或它的某一个依赖项。试图加载格式不正确的程序。
+   在 集中器控制客户端.HandleClass.SQLiteHelper.CreateDB(String dbName)
+   在 集中器控制客户端.HandleClass.SQLiteHelper..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\SQLiteHelper.cs:行号 25
+   在 集中器控制客户端.HandleClass.HandelControls..ctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 29
+   在 集中器控制客户端.HandleClass.HandelControls..cctor() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 142
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 集中器控制客户端.HandleClass.HandelControls.createHandelControls()
+   在 集中器控制客户端.ConcentratorControlClient.WindowLoading() 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 148
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 D:\我的文档\My Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 306
+
+
+----------------------footer--------------------------

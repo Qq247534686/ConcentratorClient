@@ -1,0 +1,344 @@
+
+----------------------header--------------------------
+2017-04-10 09:27:22,828 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Pictures\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:31:49,724 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:33:42,065 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:42:18,209 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:45:00,641 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+2017-04-10 09:46:46,909 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 297
+
+2017-04-10 09:46:47,814 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 297
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:47:42,486 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:48:04,926 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:48:53,033 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:51:37,562 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:53:26,253 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 09:55:12,375 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+2017-04-10 09:56:46,235 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 297
+
+2017-04-10 09:56:46,813 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.HandleClass.HandleTool.sendInfo(Byte[] info) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 297
+
+2017-04-10 09:59:48,607 [7] ERROR errorMsg - System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 15:31:16,550 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+2017-04-10 15:31:27,184 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+2017-04-10 15:31:58,401 [1] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 647
+   在 集中器控制客户端.ConcentratorControlClient.ValidateGroupContorls(String contorlName) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1302
+
+2017-04-10 15:31:58,406 [1] ERROR errorMsg - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 集中器控制客户端.HandleClass.HandelControls.StringConvertByte(String address, String responseValue) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 647
+   在 集中器控制客户端.HandleClass.HandelControls.ResponseSettingParameter(Byte[] address, String groupNumber, List`1 addressArray, List`1 valueArray) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandelControls.cs:行号 681
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 15:32:30,711 [10] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------header--------------------------
+2017-04-10 15:43:05,861 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 897
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 15:46:18,950 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 15:46:29,589 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 15:46:51,045 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 15:47:48,694 [10] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------header--------------------------
+2017-04-10 15:49:09,176 [9] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 15:59:56,737 [9] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+2017-04-10 16:04:46,242 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+
+----------------------header--------------------------
+2017-04-10 16:06:46,414 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 893
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 318
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:10:30,036 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:11:30,111 [10] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+2017-04-10 16:12:19,290 [15] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+2017-04-10 16:12:38,724 [14] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:14:15,124 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:15:42,474 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+2017-04-10 16:15:47,728 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:16:08,569 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+2017-04-10 16:16:12,503 [6] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+2017-04-10 16:16:20,430 [9] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort()
+   在 集中器控制客户端.HandleClass.HandleTool.CloseThread() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 338
+   在 集中器控制客户端.HandleClass.HandleTool.stopSocket() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 280
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 76
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:25:19,998 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:32:40,313 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:39:27,158 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+2017-04-10 16:40:49,339 [7] ERROR errorMsg - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Net.UnsafeNclNativeMethods.OSSOCK.recv(IntPtr socketHandle, Byte* pinnedBuffer, Int32 len, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   在 集中器控制客户端.HandleClass.HandleTool.ReceiveInfo() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\HandleClass\HandleTool.cs:行号 73
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 16:43:30,074 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+
+----------------------footer--------------------------
+
+----------------------header--------------------------
+2017-04-10 18:51:26,700 [10] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+2017-04-10 18:58:13,189 [10] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.GetControlTagAndValue(String contorlName, List`1& contorlsValue) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 1145
+
+
+----------------------header--------------------------
+2017-04-10 19:00:16,674 [9] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+
+----------------------header--------------------------
+2017-04-10 19:07:46,108 [9] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+
+----------------------footer--------------------------

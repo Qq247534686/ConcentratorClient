@@ -1,0 +1,8 @@
+
+----------------------header--------------------------
+2017-04-10 16:31:02,232 [1] ERROR errorMsg - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 集中器控制客户端.ConcentratorControlClient.ReadXmlSetting() 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 899
+   在 集中器控制客户端.ConcentratorControlClient.ConcentratorControlClient_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Downloads\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\ConcentratorControlClient.cs:行号 324
+
+
+----------------------footer--------------------------
